@@ -1,8 +1,21 @@
 # CHANGELOG.md
 
 ## v0.0.1
+
 Fixes:
- - None
+
+- None
 
 Features:
- - Initial version of application
+
+- Initial version of application
+
+## v0.0.2
+
+Fixes:
+
+- None
+
+Features:
+
+- None
